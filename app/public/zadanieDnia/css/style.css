@@ -12,3 +12,7 @@
 .vote.no {
     background : red;
 }
+
+.vote.idk {
+    background : gray;
+}
